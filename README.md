@@ -1,0 +1,2 @@
+# Prediction-for-the-Allstate-claim-loss
+in this project the goal is to predict single claim loss based on dataset provided by Allstate insurance company. The dataset contains over 180000 observations with 131 variables including 116 categorical variables,14 numerical variables and one target variable named Loss, and Kaggle has already split data into training and testing set. Model performance is being evaluated by the error between prediction and actual data. 
